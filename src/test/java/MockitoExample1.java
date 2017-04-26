@@ -246,7 +246,7 @@ public class MockitoExample1 {
         verify(testMockList).add(1);
     }
 
-    static void println(Object val){
+    static void println(Object val) {
         System.out.println("--------------------");
         System.out.println(val);
         System.out.println("--------------------");

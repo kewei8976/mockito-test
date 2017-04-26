@@ -1,3 +1,19 @@
 
 7
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+R
+"src/test/java/MockitoExample2.java,0/4/047dab7b1d052baa15eb5adb6e2df2d2f01657fd
+@
+mockito-test.iml,b/6/b6fdaddb5702a550e2826bee71c0c3a065bb12bb
+[
++.idea/libraries/Maven__junit_junit_4_11.xml,e/c/ec13f10714a5eec675a96e36cd71bd064d063683
+i
+9.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml,b/8/b8d96649614bd84192f3496ef7d33bab1d1e5ec1
+m
+=.idea/libraries/Maven__org_mockito_mockito_all_2_0_2_beta.xml,6/c/6cc328f23c9e8e31ff01395301164ac542af488e
+U
+%.idea/copyright/profiles_settings.xml,8/c/8c00054dc44a9aac96957ae70e12d95773e087f7
+>
+src/doc/readme,f/6/f64566155aa47856808b06032f268436099b0a1e
+R
+"src/test/java/MockitoExample1.java,e/8/e8a37cd7a35749f6b3a0cc445b91a34a88a88f30
