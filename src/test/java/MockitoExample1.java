@@ -81,9 +81,9 @@ public class MockitoExample1 {
         //预设根据不同的参数返回不同的结果
         when(comparable.compareTo("Test")).thenReturn(ok);
         when(comparable.compareTo("Omg")).thenReturn(ok);
-
         assertEquals(ok,comparable.compareTo("Test"));
         assertEquals(ok,comparable.compareTo("Omg"));
+
         //对于没有预设的情况会返回默认值
         assertEquals(0, comparable.compareTo("Not stub"));
     }
